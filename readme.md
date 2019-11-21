@@ -63,3 +63,8 @@ The web app has links to invoke all the C++ examples.  Just go to `/web` and typ
 ```
 > node index
 ```
+
+
+https://nodeaddons.com/automating-a-c-program-from-a-node-js-web-app/
+
+https://nodeaddons.com/getting-your-c-to-the-web-with-node-js/
